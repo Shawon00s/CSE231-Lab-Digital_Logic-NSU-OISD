@@ -4,3 +4,15 @@
 <img src="PNGs/Lab_03- Universal Gates-2.png">
 <img src="PNGs/Lab_03- Universal Gates-3.png">
 <img src="PNGs/Lab_03- Universal Gates-4.png">
+
+# *Lab Report →*
+<img src="PNGs/LAB_Report_03-Universal_Gates-01.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-02.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-03.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-04.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-05.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-06.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-07.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-08.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-09.png">
+
