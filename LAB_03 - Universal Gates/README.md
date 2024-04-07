@@ -15,4 +15,3 @@
 <img src="PNGs/LAB_Report_03-Universal_Gates-07.png">
 <img src="PNGs/LAB_Report_03-Universal_Gates-08.png">
 <img src="PNGs/LAB_Report_03-Universal_Gates-09.png">
-
