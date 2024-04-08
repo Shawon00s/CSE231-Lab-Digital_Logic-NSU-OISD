@@ -21,3 +21,6 @@
 <img src="PNGs/LAB_Report_03-Universal_Gates-11.png">
 <img src="PNGs/LAB_Report_03-Universal_Gates-12.png">
 <img src="PNGs/LAB_Report_03-Universal_Gates-13.png">
+
+# *Circuit Simulation →*
+<img src="LAB_03_Simulation - Universal_Gates.png">
