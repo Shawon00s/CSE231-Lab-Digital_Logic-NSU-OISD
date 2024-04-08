@@ -15,3 +15,9 @@
 <img src="PNGs/LAB_Report_03-Universal_Gates-07.png">
 <img src="PNGs/LAB_Report_03-Universal_Gates-08.png">
 <img src="PNGs/LAB_Report_03-Universal_Gates-09.png">
+
+# *Experimental Data →*
+<img src="PNGs/LAB_Report_03-Universal_Gates-10.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-11.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-12.png">
+<img src="PNGs/LAB_Report_03-Universal_Gates-13.png">
