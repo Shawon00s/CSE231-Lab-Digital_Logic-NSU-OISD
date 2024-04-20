@@ -18,4 +18,6 @@
 <img src="PNGs/LAB_Report_01-Digital Logic Gates and Boolean Function-8.png">
 <img src="PNGs/LAB_Report_01-Digital Logic Gates and Boolean Function-9.png">
 
+# *Circuit Simulation →*
 
+<img src="PNGs/LAB_01_Simulation - Digital Logic Gates and Boolean Function.png">
