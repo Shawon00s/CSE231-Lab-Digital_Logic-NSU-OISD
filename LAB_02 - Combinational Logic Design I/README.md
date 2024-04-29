@@ -16,3 +16,7 @@
 <img src="PNGs/LAB_Report_02 - Combinational Logic Design I-6.png">
 <img src="PNGs/LAB_Report_02 - Combinational Logic Design I-7.png">
 
+# *Circuit Simulation →*
+
+<img src="PNGs/LAB2-1st_Canonical_Form.png">
+<img src="PNGs/LAB2-2nd_Canonical_Form.png">
