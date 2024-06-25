@@ -17,3 +17,7 @@
 <img src="PNGs/Lab_Report_09-Synchronous Sequential Circuits-09.png">
 <img src="PNGs/Lab_Report_09-Synchronous Sequential Circuits-10.png">
 <img src="PNGs/Lab_Report_09-Synchronous Sequential Circuits-11.png">
+
+# *Lab Simulation →*
+
+<img src="PNGs/LAB_09_Simulation - Synchronous Sequential Circuits.png">
