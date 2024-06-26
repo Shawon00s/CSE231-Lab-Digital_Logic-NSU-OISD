@@ -20,4 +20,3 @@
 
 <img src="PNGs/LAB2-1st_Canonical_Form.png">
 <img src="PNGs/LAB2-2nd_Canonical_Form.png">
-
