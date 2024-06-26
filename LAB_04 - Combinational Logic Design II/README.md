@@ -26,4 +26,4 @@
 
 # *Lab Simulation →*
 
-<img src="PNGs/LAB_Report_04 - LAB_04_Simulation - Combinational_Logic_Design_II.png">
+<img src="PNGs/LAB_04_Simulation - Combinational_Logic_Design_II.png">
