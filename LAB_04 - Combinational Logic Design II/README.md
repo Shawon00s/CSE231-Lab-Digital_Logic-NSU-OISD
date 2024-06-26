@@ -23,3 +23,7 @@
 <img src="PNGs/LAB_Report_04 - Combinational Logic Design II-10.png">
 <img src="PNGs/LAB_Report_04 - Combinational Logic Design II-11.png">
 <img src="PNGs/LAB_Report_04 - Combinational Logic Design II-12.png">
+
+# *Lab Simulation →*
+
+<img src="PNGs/LAB_Report_04 - LAB_04_Simulation - Combinational_Logic_Design_II.png">
