@@ -1,6 +1,6 @@
 # CSE231-Lab-Digital_Logic-NSU-OISD
 
-<em> Course name - CSE231\
+<em> Course name - CSE231L\
 Faculty - <a href="http://ece.northsouth.edu/people/omar-ibne-shahid/">Prof. Omar-Ibne Shahid</a>\
 Faculty initial - OISD\
 Summer'24</em>
